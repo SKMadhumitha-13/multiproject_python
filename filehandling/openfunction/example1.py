@@ -1,0 +1,6 @@
+fobj = open('file1.txt', encoding='utf-8')
+print(fobj)
+print(fobj.name)
+print(fobj.encoding)
+print(fobj.mode) 
+print(fobj.buffer)

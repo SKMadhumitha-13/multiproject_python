@@ -1,0 +1,1 @@
+print(list(map(lambda ch1,ch2: ch1+ch2,'abcd','pqrs')))

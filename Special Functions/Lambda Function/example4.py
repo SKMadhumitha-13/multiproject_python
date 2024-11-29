@@ -1,0 +1,1 @@
+print(list(map(lambda ch: ch*3, 'abcd')))
